@@ -1,0 +1,6 @@
+@api resource making command 
+php artisan make:resource Product/ProductCollection 
+php artisan make:resource Product/ProductResource
+
+@to check all availble route
+php artisan route:list
